@@ -1,6 +1,6 @@
 # RC drone simulator
 
-It's an example of implementations for [RC drone simulator problem](rc_drone_simulator_problem.rb)
+It's an example of implementations for [RC drone simulator problem](rc_drone_simulator_problem.md)
 
 ### How to run application:
 
