@@ -1,21 +1,21 @@
 # RC drone simulator
 
-It's an example of implementations for [rc_drone_simulator_problem.rb](RC drone simulator problem)
+It's an example of implementations for [RC drone simulator problem](rc_drone_simulator_problem.rb)
 
-###Run application:
+### How to run application:
 
 ```
-ruby run.rb
+ruby run.rb commands.txt
 ```
 
 By default this command run all robot's commands from `commands.txt` file.
 Please edit this file to change commands.
 
-###Test application:
+### How to test application:
 
-You need to run `bundle`, for install RSpec:
+You need to run `bundle` to install RSpec:
 ```
-bundle
+bundle install
 ```
 
 After that you can run tests:
